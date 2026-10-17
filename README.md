@@ -4,7 +4,6 @@
 
 Study Buddy turns a photo of study material into a step-by-step explanation, a quiz, and flashcards. It is built for the **Best Use of Gemma 4** prize at Hacktoberfest Hack Day Lahore x AWS Student Builder Group (Virtual University of Pakistan).
 
-Demo video: _add your video link here_
 
 ## What it does
 
