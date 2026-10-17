@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "study_buddy",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define=GEMINI_KEY=PASTE_YOUR_KEY_HERE"]
+    }
+  ]
+}
