@@ -5,7 +5,7 @@
       "name": "study_buddy",
       "request": "launch",
       "type": "dart",
-      "args": ["--dart-define=GEMINI_KEY=PASTE_YOUR_KEY_HERE"]
+      "args": ["--dart-define=.env"]
     }
   ]
 }
